@@ -1,0 +1,81 @@
+.navbar-scroll {
+    position: fixed;
+    z-index: 1030;
+    backdrop-filter: blur(0.063rem);
+    background-color: rgba(0, 0, 0, 0.295);
+    -webkit-backdrop-filter: blur(0.063rem);
+}
+
+@media (max-width: 61.938rem) {
+    .navbar-scroll {
+        background-color: #000000bb;
+    }
+    .navbar-scroll .navbar-brand,
+    .navbar-scroll .nav-link,
+    .navbar-scroll .fa-bars {
+        color: #ffffff !important;
+    }
+}
+
+.navbar-brand {
+    letter-spacing: 0.188rem;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.navbar-scroll .navbar-brand,
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars {
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 0.081rem;
+    font-size: 1.3rem;
+}
+
+.nav-link:hover {
+    background-color: rgba(114, 114, 114, 0.644);
+    border-radius: 1rem;
+}
+
+.navbar-scrolled {
+    box-shadow: 0 0.625rem 1.25rem 0 rgb(0, 0, 0);
+}
+
+.navbar-scrolled .navbar-brand,
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars {
+    color: #000000;
+}
+
+.navbar-scrolled {
+    background-color: #000000;
+}
+
+@media (max-width: 28.125rem) {
+    #intro {
+        height: 59.375rem !important;
+    }
+}
+
+@media (min-width: 34.375rem) and (max-width: 46.875rem) {
+    #intro {
+        height: 68.75rem !important;
+    }
+}
+
+@media (min-width: 50rem) and (max-width: 61.875rem) {
+    #intro {
+        height: 37.5rem !important;
+    }
+}
+
+.display-1 {
+    font-weight: 500 !important;
+    letter-spacing: 2.5rem;
+}
+
+@media (min-width: 100rem) {
+    .display-1 {
+        font-size: 10rem;
+    }
+}

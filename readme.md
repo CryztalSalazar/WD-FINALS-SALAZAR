@@ -4,25 +4,24 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Aleksaucey/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/favicon.ico" alt="OXGN" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Responsive Website</h3>
 </div>
 <!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
+<div align="center">Oxgn Multipage website
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Aleksaucey/WD-FINALS-SALAZAR)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/1e7d773a-0b01-4a3f-be97-4135bd1d086c/project/e4972f4f-626c-4ff3-913c-5ee3edf136b6.svg)](https://wakatime.com/badge/user/1e7d773a-0b01-4a3f-be97-4135bd1d086c/project/e4972f4f-626c-4ff3-913c-5ee3edf136b6)
 
 ---
 
@@ -59,26 +58,23 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The purpose of this project is to showcase Bootstrap and Tailwind features that we can add in our website. The final project for CSS0027L is to make a multipage website that features Bootstrap and Tailwind, and also to test the responsiveness of the website.
+<br>
+The key components of this project is that the 3 products that can be seen in the landing page has their own product pages, the navigation bar and background images are responsive as well as the product cards in the products area.
+<br>
+We were assigned to use HTML, CSS, Tailwind and Bootstrap for these project to utilize the multipage website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -119,4 +115,15 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| OXGN Fashion | Main Reference for the website. | https://www.oxgnfashion.com/ |
+| Bootstrap NavBar | Used and revised for navigation bar. | https://mdbootstrap.com/docs/standard/navigation/navbar/examples-and-customization/ |
+| Responsive Image | Used for the background responsiveness. | https://www.w3schools.com/howto/howto_css_image_responsive.asp |
+| Bootstrap Footer | Used and revised for the footer of the website. | https://mdbootstrap.com/docs/standard/navigation/footer/examples-and-customization/ |
+| Website Favicon | Used for the website favicon. | https://www.w3schools.com/html/html_favicon.asp |
+| Z-Index | Used for positioning the button in landing page. | https://www.w3schools.com/cssref/pr_pos_z-index.php |
+| Button in the Image | Used to create a button at the front of an image. | https://www.w3schools.com/howto/howto_css_button_on_image.asp |
+| Bootstrap Product List | Used and revised for product cards in products page | https://bbbootstrap.com/snippets/bootstrap-ecommerce-product-grid-view-card-19577966 |
+| Bootstrap Product Cards | Used and revised for product card in landing page and products page. | https://freefrontend.com/bootstrap-product-cards/ |
+| Bootstrap Containers | Used for positioning product description and buttons | https://getbootstrap.com/docs/5.0/layout/containers/ |
+| Color Specificity | Fixing the color to alter the bootstrap in css | https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity |
+| Button Styling | Used to style the buttons in the product page. | https://www.w3schools.com/css/css3_buttons.asp |

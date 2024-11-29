@@ -1,0 +1,25 @@
+/*Bg-Image*/
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: monospace;
+    color: #fff;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+.h1 {
+    font-size: 10rem;
+    text-align: center;
+    color: #fff;
+    margin-top: 50px;
+}

@@ -1,0 +1,15 @@
+/*Bg-Image*/
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+body{
+    font-family:monospace;
+    background-color: black;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5rem;
+}
