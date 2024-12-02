@@ -58,12 +58,16 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-The purpose of this project is to showcase Bootstrap and Tailwind features that we can add in our website. The final project for CSS0027L is to make a multipage website that features Bootstrap and Tailwind, and also to test the responsiveness of the website.
+The purpose of this project is to showcase Bootstrap and Tailwind features that we can add in our website, this is the final
+requirement for our course CCS0027L.
+Our group were assigned to create a clothing company to create a website, I specifically chose OXGN Fashion.
+HTML, CSS, Tailwind and Bootstrap were used for these project to utilize a multipage website that can be atleast
+tablet responsive.
 <br>
-The key components of this project is that the 3 products that can be seen in the landing page has their own product pages, the navigation bar and background images are responsive as well as the product cards in the products area.
+The key components of this project is that the 3 products that can be seen in the landing page has their own product pages,
+the navigation bar and background images are responsive as well as the product cards in the products area,
+a total of 7 pages inlcuding the landing page were the features of this website.
 <br>
-We were assigned to use HTML, CSS, Tailwind and Bootstrap for these project to utilize the multipage website.
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
